@@ -1,0 +1,89 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/5f/29/62/5f2962b1a76e94d5698e193977919333.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: Candara, serif;
+    color: #F4F700;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    height: 2px;
+    background-color: red;
+    border-color: red;
+}
+
+.menu {
+    width: 80%;
+    background-color:  #ff3333;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.food, .drink {
+    text-align: left;
+    width: 90%;
+}
+
+.price {
+    width: 10%;
+}
+
+.established {
+    font-style: italic;
+}
+
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: black;
+}
